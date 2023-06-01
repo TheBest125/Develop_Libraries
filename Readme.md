@@ -6,6 +6,8 @@
 
 * Later, you'll build a shopping cart and other applications to learn how to create powerful Single Page Applications (SPAs) with React and Redux.
 
+* Anyone can learn it   /// Made by KevinBruyne
+
 # Courses
 
 * Bootstrap
